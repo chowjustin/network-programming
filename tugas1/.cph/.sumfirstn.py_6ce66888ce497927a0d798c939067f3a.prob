@@ -1,0 +1,1 @@
+{"name":"Local: sumfirstn","url":"d:\\Documents\\Justin\\ITS\\Progjar\\Code\\sumfirstn.py","tests":[{"id":1742136626174,"input":"5","output":""},{"id":1742136630536,"input":"-3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Documents\\Justin\\ITS\\Progjar\\Code\\sumfirstn.py","group":"local","local":true}
